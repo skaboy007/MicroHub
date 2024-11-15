@@ -244,4 +244,4 @@ The MicroHub Manifest is a part of the MicroHub Initiative, it aims to establish
 
 **Conclusion**
 
-The Microservices Marketplace Manifest provides concrete specifications to standardize the development and integration of microservices. By adhering to these guidelines, developers can create interoperable, scalable, and maintainable services that contribute to a robust and collaborative ecosystem.
+The MicroHub Manifest provides concrete specifications to standardize the development and integration of microservices. By adhering to these guidelines, developers can create interoperable, scalable, and maintainable services that contribute to a robust and collaborative ecosystem.
